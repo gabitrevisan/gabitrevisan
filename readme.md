@@ -38,7 +38,7 @@
 | ------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | **Languages & Data** | <img src="https://img.shields.io/badge/Python-FFC0CB?style=for-the-badge&logo=python" /> <img src="https://img.shields.io/badge/Java-FFC0CB?style=for-the-badge&logo=openjdk" /> <img src="https://img.shields.io/badge/SQL-FFC0CB?style=for-the-badge&logo=mysql" />        |
 | **Security & Monitoring**| <img src="https://img.shields.io/badge/SIEM-FFC0CB?style=for-the-badge" /> <img src="https://img.shields.io/badge/Akamai-FFC0CB?style=for-the-badge&logo=akamai" /> <img src="https://img.shields.io/badge/KnowBe4-FFC0CB?style=for-the-badge" />                            |
-| **Cloud & Other** | <img src="https://img.shields.io/badge/AWS-FFC0CB?style=for-the-badge&logo=amazon-aws" /> <img src="https://img.shields.io/badge/Git-FFC0CB?style=for-the-badge&logo=git" /> <img src="https://img.shields.io/badge/Office_Suite-FFC0CB?style=for-the-badge&logo=microsoft-office" /> |
+| **Cloud & Others** | <img src="https://img.shields.io/badge/AWS-FFC0CB?style=for-the-badge&logo=amazon-aws" /> <img src="https://img.shields.io/badge/Git-FFC0CB?style=for-the-badge&logo=git" /> <img src="https://img.shields.io/badge/Office_Suite-FFC0CB?style=for-the-badge&logo=microsoft-office" /> |
 
 </div>
 
