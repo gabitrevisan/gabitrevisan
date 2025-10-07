@@ -47,12 +47,20 @@
 ### ✨ My GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/gabitrevisan">
-    <img src="https://github-readme-stats.vercel.app/api?username=gabitrevisan&show_icons=true&theme=rose_pine&include_all_commits=true&count_private=true&layout=compact" alt="Gabriela's GitHub Stats"/>
-  </a>
-  <a href="https://github.com/gabitrevisan">
-    <img src="https://github-readme-streak-stats.vercel.app/?user=gabitrevisan&theme=rose_pine" alt="Gabriela's GitHub Streak"/>
-  </a>
+  <table>
+    <tr>
+      <td>
+        <a href="https://github.com/gabitrevisan">
+          <img src="https://github-readme-stats.vercel.app/api?username=gabitrevisan&show_icons=true&theme=rose_pine&include_all_commits=true&count_private=true" alt="Gabriela's GitHub Stats"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/gabitrevisan">
+          <img src="https://streak-stats.demolab.com/?user=gabitrevisan&theme=rose_pine" alt="Gabriela's GitHub Streak"/>
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
