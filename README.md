@@ -53,26 +53,3 @@
 </p>
 
 ---
-
-### 📌 Pinned Projects
-
-<p align="center">
-  <a href="https://github.com/gabitrevisan/sprint1-cyber">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gabitrevisan&repo=sprint1-cyber&theme=rose_pine" />
-  </a>
-  <a href="https://github.com/gabitrevisan/jornada-python">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gabitrevisan&repo=jornada-python&theme=rose_pine" />
-  </a>
-  <a href="https://github.com/gabitrevisan/cp3-datascience-2sem">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gabitrevisan&repo=cp3-datascience-2sem&theme=rose_pine" />
-  </a>
-  <a href="https://github.com/gabitrevisan/GS-ECCS">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gabitrevisan&repo=GS-ECCS&theme=rose_pine" />
-  </a>
-  <a href="https://github.com/gabitrevisan/sprint3_csharp">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gabitrevisan&repo=sprint3_csharp&theme=rose_pine" />
-  </a>
-  <a href="https://github.com/gabitrevisan/cp1_soa">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gabitrevisan&repo=cp1_soa&theme=rose_pine" />
-  </a>
-</p>
