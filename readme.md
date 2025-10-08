@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Gabriela Trevisan! 👋
+# Hi there, I'm Gabriela Trevisan, but you can call me Gabi! 👋
 
 <a href="https://github.com/gabitrevisan">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabitrevisan&layout=compact&langs_count=7&theme=rose_pine" alt="Top Languages"/>
