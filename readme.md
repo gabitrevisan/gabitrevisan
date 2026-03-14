@@ -18,7 +18,7 @@
 
 ### 🌸 About Me
 
-- 🔭 Working as an **Information Security Intern** at [Juntos Somos Mais](https://www.juntossomosmais.com.br/), with a focus on cybersecurity and risk monitoring.
+- 🔭 Working as an **Junior Platform Access Analyst** at [Ebury Bank Brasil](https://br.ebury.com/), with a focus on cybersecurity and risk monitoring.
 - 🌱 Developing my skills in **Blue Team operations**, **Data Governance**, and **Risk Compliance**.
 - 🤔 Fascinated by the intersection of **Cybersecurity**, **Data Analysis**, and **Automation**.
 - 📫 Feel free to reach out at **gabitrevis@gmail.com** or connect with me on **[LinkedIn](https://www.linkedin.com/in/gabriela-trevisan-silva/)**!
